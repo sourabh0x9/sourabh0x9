@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **React, Node Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sourya911](https://github.com/sourya911)
+- 👨‍💻 All of my projects are available at [https://github.com/sourya911](https://github.com/sourabh0x9)
 
 - 📫 How to reach me **magdumsourabh37@gmail.com**
-
-- 📄 Resume : [https://drive.google.com/file/d/1-UAE5h5Z8x-esMSK8l_Aju44OthDHlll/view](https://drive.google.com/file/d/1-UAE5h5Z8x-esMSK8l_Aju44OthDHlll/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
